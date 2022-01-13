@@ -18,3 +18,7 @@ yarn
 ```
 yarn dev
 ```
+
+```
+touch tsconfig.json
+```
