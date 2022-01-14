@@ -12,3 +12,5 @@ export default function FirstPost() {
     </>
   )
 }
+
+// http://localhost:3000/posts/first-post にアクセスするとページが見れる
